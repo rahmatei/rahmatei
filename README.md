@@ -8,6 +8,18 @@ I'm a Software Engineer, Developer and #Flutter #Devops Lover
 * ✉️  You can contact me at [rahmatei@gmail.com](mailto:rahmatei@gmail.com)
 * 🧠  I'm learning Flutter And Devops
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <a href="https://www.twitter.com/hosseinrahmatei" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hosseinrahmatei?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
